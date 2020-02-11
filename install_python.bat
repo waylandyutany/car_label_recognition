@@ -1,0 +1,1 @@
+pip install glob2 tensorflow opencv-python
